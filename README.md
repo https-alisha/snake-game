@@ -14,7 +14,7 @@ Welcome to the classic Snake Game! This Python implementation, utilizing the Tur
 
 
 4. **Game Controls**:
-- Use the arrow keys (up, down, left, right) to control the direction of the snake.
+- Use the arrow keys (W, A, S, D) to control the direction of the snake.
 - Avoid hitting the walls or the snake's own body.
 - Eat the food (green square) to grow the snake and earn points.
 
